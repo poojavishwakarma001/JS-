@@ -1,1 +1,0 @@
-console.log(`'this is another index file for nodeJs'`)
