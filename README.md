@@ -1,6 +1,6 @@
 # JS- // way of capitalize first latter of a string without predefine method
 
-var str='string is  way of wtiting Words';
+var str='string is  way of writing Words';
 var word= str.split(' ')
 console.log(word)
 
