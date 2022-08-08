@@ -1,0 +1,8 @@
+// extracting specific part of string 
+
+function string_extracting(str,from,to){
+    if(to>0){
+        return str.slice(from,to)
+    }
+}
+console.log(string_extracting("poojavishwa",-5,14))
